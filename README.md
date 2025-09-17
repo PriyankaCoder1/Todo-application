@@ -1,4 +1,4 @@
-# TotoApp - Spring Boot Todo Application
+# TodoApp - Spring Boot Todo Application
 
 A simple Todo application built with Spring Boot, allowing users to manage tasks via a web interface.
 
